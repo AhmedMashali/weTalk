@@ -1,5 +1,5 @@
 # We Talk
-We Talk is a node.js rooms chat app for classes of a semester
+We Talk is a real time node.js rooms chat app for classes of a semester
 ## Functionality
 - Authontecation
   - sign up
