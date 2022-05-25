@@ -9,7 +9,7 @@ We Talk is a real time node.js rooms chat app for classes of a semester
 - real time chatting with text messages
 - real time chatting with images
 - all messages is stored in the database 
-- show online people in the room
+- show online users in the room
 - leaving the room
 - log out
 ## Languages
