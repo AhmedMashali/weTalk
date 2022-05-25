@@ -41,5 +41,3 @@ npm insall
 ```javascript
 npm start
 ```
-# Team members
-[Ahmed Fawzy](https://github.com/0xluki)
